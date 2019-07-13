@@ -1,0 +1,45 @@
+body{
+    background-color: #37474f;
+}
+#queue{
+    text-align: center;
+    height: 100px;
+    max-width: 800px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+div#queue .row{
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    border: black 2px;
+}
+
+div#queue .box{
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;
+    border: black 2px ;
+}
+h1{
+    color: ghostwhite;
+    font-weight: bold;
+    text-align: center;
+    top: 130px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+hr{
+    border-color: white;
+}
